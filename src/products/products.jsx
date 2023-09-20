@@ -7,7 +7,7 @@ function Products() {
   console.log(searchParams.toString());
 
   const typeFilter = searchParams.get("type");
-  const offerFilter = searchParams.get("offer");
+  // const offerFilter = searchParams.get("offer");
 
   const displayProducts = typeFilter
     ? allProducts.filter((e) => e.type === typeFilter)
