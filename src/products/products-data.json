@@ -1,0 +1,15 @@
+[
+  { "name": "apple juice", "type": "drinks", "price": 8, "offer": "false" },
+  { "name": "note-book", "type": "study", "price": 7, "offer": "false" },
+  { "name": "orange juice", "type": "drinks", "price": 9, "offer": "false" },
+  { "name": "eggs", "type": "food", "price": 9, "offer": "true" },
+  { "name": "book", "type": "study", "price": 10, "offer": "true" },
+  { "name": "tomatoes", "type": "food", "price": 8, "offer": "false" },
+  { "name": "paper", "type": "study", "price": 2, "offer": "false" },
+  { "name": "tea", "type": "drinks", "price": 12, "offer": "false" },
+  { "name": "cheese", "type": "food", "price": 3, "offer": "true" },
+  { "name": "meat", "type": "food", "price": 15, "offer": "false" },
+  { "name": "pen", "type": "study", "price": 5, "offer": "false" },
+  { "name": "water", "type": "drinks", "price": 2, "offer": "true" },
+  { "name": "coffee", "type": "drinks", "price": 11, "offer": "true" }
+]
